@@ -1,0 +1,20 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+
+# Sensitive files
+wp-config.php
+.htaccess
+
+# Plugins and themes (optional if using version control)
+/wp-content/plugins/
+
+# Uploads
+/wp-content/uploads/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
